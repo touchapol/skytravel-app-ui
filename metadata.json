@@ -1,0 +1,5 @@
+{
+  "name": "SkyTravel App",
+  "description": "A modern, mobile-first flight booking application featuring a dashboard with services and deals, and a detailed flight search interface.",
+  "requestFramePermissions": []
+}
